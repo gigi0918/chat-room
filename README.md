@@ -50,9 +50,8 @@
 
 # Demo 
 
-<video width="320" height="240" controls>
-    <source src="https://github.com/gigi0918/chat-room/demo.mp4" type="video/mp4">
-</video>
+![image](https://github.com/gigi0918/chat-room/blob/master/demo.gif)
+
 
 # References
 - [Virtual Environments and Packages](https://docs.python.org/3/tutorial/venv.html)
