@@ -38,7 +38,7 @@
     ```
 
 ## Now you can chat with yourself
-- Open three terminals and run programs individually
+- Open three terminals(Oh! Remember to activate virtual environment) and run programs individually
     ```bash
     # Terminal #1
     $ python3 src/room.py
@@ -47,10 +47,6 @@
     # Terminal #3
     $ python3 src/user2.py
     ```
-
-# Demo 
-
-![image](https://github.com/gigi0918/chat-room/blob/master/demo.gif)
 
 
 # References
