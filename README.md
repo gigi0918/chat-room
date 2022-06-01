@@ -48,6 +48,22 @@
     $ python3 src/user2.py
     ```
 
+# Demo
+![image](https://github.com/gigi0918/chat-room/blob/master/chat-room/demo.gif)
+
+# Command
+```bash
+# Start the Kafka
+cd kafka
+docker-compose up -d
+
+# Check the Kafka status
+docker-compose ps
+
+# Stop the Kafka
+cd kafka
+docker-compose down
+```
 
 # References
 - [Virtual Environments and Packages](https://docs.python.org/3/tutorial/venv.html)
