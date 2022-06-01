@@ -49,7 +49,8 @@
     ```
 
 # Demo
-![image](https://github.com/gigi0918/chat-room/blob/master/chat-room/demo.gif)
+![image](https://github.com/gigi0918/chat-room/blob/master/demo.gif)
+
 
 # Command
 ```bash
